@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MVP and Menus</string>
+    <string name="activity_main_no_users">No Users</string>
+    <string name="activity_main_options">Opciones</string>
+    <string name="main_menu_fetch_user">Fetch user</string>
+    <string name="main_menu_show_progress">Mostrar progreso</string>
+    <string name="main_menu_no_users">Mostrar no hay usuarios</string>
+    <string name="main_menu_show_user">Mostrar usuario</string>
+</resources>
